@@ -6,6 +6,9 @@ I am Nguyen Minh Hieu, a technology enthusiast with a passion for data science a
 ## Certificates
 - **Exploratory Data Analysis for Machine Learning** – IBM & Coursera, Dec 2024  
 - **Supervised Machine Learning: Regression** – IBM & Coursera, Dec 2024  
+## First Product (**Image processing, hand gesture recognition, mobile robot control**)
+This is my first product when I was a freshman when I combined the knowledge of both IOT and AI into one project. Although I failed, it was also my experience and experience to improve the next projects more perfectly.
+
 
 ## Projects 
 1. **Humidity forecast in Vietnamese provinces Project**  
@@ -22,7 +25,7 @@ I am Nguyen Minh Hieu, a technology enthusiast with a passion for data science a
    - Irrigation system design using raspberry pi pico w microprocessor.
    - Conduct predictions with real data passed through a relay activation model to turn the pump on and off.
    - Use Dijango to create visual web for every function.
-   - [View Project](https://github.com/MinhHieu13-cmc/Hethongtuoitieutudong)  
+   - [View Project](https://github.com/MinhHieu13-cmc/Hethongtuoitieutudong)
 
 ## Contact
 - Email: hieu89062@gmail.com  
