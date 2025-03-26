@@ -2,7 +2,7 @@
 # Portfolio for Samsung Innovation Campus 2025 – Nguyễn Minh Hiếu
 
 ## About Me
-I am Nguyễn Minh Hiếu, a technology enthusiast with a passion for data science and machine learning. I have completed two courses from IBM & Coursera, and I am eager to join Samsung Innovation Campus 2025 to further develop my skills in AI and IOT.
+I am Nguyen Minh Hieu, a technology enthusiast with a passion for data science and machine learning. I am currently doing my internship as a member of ATI CMC institute, my work is very much related to AI deployment on edge devices, I have heard about and I am very eager to join Samsung Innovation Campus 2025 to further develop my skills in the field of AI and IOT.
 
 ## Certificates
 - **Exploratory Data Analysis for Machine Learning** – IBM & Coursera, Dec 2024  
@@ -16,7 +16,7 @@ I am Nguyễn Minh Hiếu, a technology enthusiast with a passion for data scien
    - Connect to tawk.to's api to create a chatbot that analyzes humidity data of provinces.
    - Create visual bar and wave charts of humidity values for each province.
    - Use Dijango to create visual web for every function.
-   - [View Project](https://github.com/MinhHieu13-cmc/Humidity-forecast-in-Vietnamese-provinces)  
+   - [View Project](https://github.com/MinhHieu13-cmc/Humidity-forecast-in-Vietnamese-provinces) 
 2. **Automatic irrigation IOT system**  
    - Use sensors (DHT22 and soil moisture) to collect real-time data.
    - Using Machine Learning to Train Random Forests Models with Real Data.
@@ -27,4 +27,4 @@ I am Nguyễn Minh Hiếu, a technology enthusiast with a passion for data scien
 
 ## Contact
 - Email: hieu89062@gmail.com  
-- GitHub: [github.com/MinhHieu13-cmc](github.com)
+- GitHub: [github.com/MinhHieu13-cmc]([github.com](https://github.com/MinhHieu13-cmc))
