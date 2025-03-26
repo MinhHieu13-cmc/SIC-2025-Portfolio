@@ -9,7 +9,7 @@ I am Nguyen Minh Hieu, a technology enthusiast with a passion for data science a
 
 ## First Product (Image Processing, Hand Gesture Recognition, Mobile Robot Control)
 This was my first product as a freshman, where I combined IoT and AI to create a system for hand gesture recognition and mobile robot control. Although the project did not succeed due to hardware limitations and my limited experience at the time, it taught me valuable lessons about system integration and the importance of testing. These insights have helped me improve the quality of my subsequent projects.  
-[Watch the video here](https://drive.google.com/file/d/10xdvZ76OoRrIBuYPkzIII2ntkHG4Bqb9/view?usp=sharing)  
+[Watch the video here](https://github.com/MinhHieu13-cmc/SIC-2025-Portfolio/VID_20240511_110352_851.mp4)
 
 ## Projects
 1. **Humidity Forecast in Vietnamese Provinces**  
