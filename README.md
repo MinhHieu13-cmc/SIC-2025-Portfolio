@@ -1,4 +1,3 @@
-# SIC-2025-Portfolio
 # Portfolio for Samsung Innovation Campus 2025 – Nguyễn Minh Hiếu
 
 ## About Me
